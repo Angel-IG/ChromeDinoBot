@@ -26,7 +26,7 @@ def obstacle(area):
 
 def main():
     print("To use the bot, open Google Chrome, go to chrome://dino, press F11 (fullscreen)"
-          " and press SPACE: once you have done that... the computer will play for you!")
+          " and press SPACE: once you have done that, the computer will play for you!")
 
     print("If the bot is running and you want to terminate the program, press ENTER. \n")
 
